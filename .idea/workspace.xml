@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="" />
+    <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/warmup/AVeryBigSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/warmup/CompareTriplets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/warmup/DiagonalDifference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/warmup/SimpleArraySum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/warmup/SimpleArraySum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/warmup/SolveMeFirst.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/warmup/SolveMeFirst.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WBEO6YpiM6uJw1Rs0th4BOK62y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,5 +64,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1578614952676" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578650358916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578650358916" />
   </component>
 </project>
