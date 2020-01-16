@@ -1,5 +1,6 @@
 def plus_minus(arr):
-    if not arr: return
+    if not arr:
+        return
 
     pos, neg, zero = 0, 0, 0
     l = len(arr)
@@ -15,6 +16,3 @@ def plus_minus(arr):
     print(pos / l)
     print(neg / l)
     print(zero / l)
-
-
-print(plus_minus([1, 1, 0, -1, -1]))

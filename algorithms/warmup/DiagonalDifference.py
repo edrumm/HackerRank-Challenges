@@ -8,6 +8,3 @@ def diagonal_difference(arr):
         secondary += arr[i][j]
 
     return abs(primary - secondary)
-
-
-print(diagonal_difference([[11, 2, 4], [4, 5, 6], [10, 8, -12]]))
