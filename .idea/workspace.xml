@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/warmup/MiniMaxSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/dynamic_programming/BeautifulPermutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/warmup/BirthdayCakeCandles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/warmup/TimeConversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +37,8 @@
       <recent name="C:\Users\esd06\Documents\Software\Python\HackerRank-Challenges\algorithms\warmup" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MiniMaxSum">
-    <configuration name="DiagonalDifference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TimeConversion">
+    <configuration name="BirthdayCakeCandles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank-Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/DiagonalDifference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/BirthdayCakeCandles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,12 +122,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TimeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HackerRank-Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/warmup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/TimeConversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TimeConversion" />
+        <item itemvalue="Python.BirthdayCakeCandles" />
         <item itemvalue="Python.MiniMaxSum" />
         <item itemvalue="Python.Staircase" />
         <item itemvalue="Python.PlusMinus" />
-        <item itemvalue="Python.DiagonalDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579207353212</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="implemented MiniMaxSum">
+      <created>1579306357760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579306357760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,37 +227,38 @@
     <MESSAGE value="implemented PlusMinus" />
     <MESSAGE value="small update" />
     <MESSAGE value="implemented Staircase" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented Staircase" />
+    <MESSAGE value="implemented MiniMaxSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented MiniMaxSum" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579203466767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579203466767" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1579207352804">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1579306356966">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579207352804" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579306258340">
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579306356966" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579308132569">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579306258340" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579306258339">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579308132569" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579308132568">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579306258339" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579306258339">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579308132568" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579308132568">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579306258339" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579306258340">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579308132568" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579308132569">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579306258340" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579207355856">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579308132569" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579306360138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579207355856" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579306360138" />
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579305755732">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
