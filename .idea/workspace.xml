@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="small update">
+    <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/warmup/MiniMaxSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/warmup/Staircase.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/warmup/Staircase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Staircase">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\esd06\Documents\Software\Python\HackerRank-Challenges\algorithms\warmup" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.MiniMaxSum">
     <configuration name="DiagonalDifference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank-Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/DiagonalDifference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MiniMaxSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HackerRank-Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/warmup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/MiniMaxSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,6 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MiniMaxSum" />
         <item itemvalue="Python.Staircase" />
         <item itemvalue="Python.PlusMinus" />
         <item itemvalue="Python.DiagonalDifference" />
@@ -153,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579206247086</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="implemented Staircase">
+      <created>1579207353212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579207353212</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,40 +195,41 @@
     <MESSAGE value="implemented DiagonalDifference" />
     <MESSAGE value="implemented PlusMinus" />
     <MESSAGE value="small update" />
-    <option name="LAST_COMMIT_MESSAGE" value="small update" />
+    <MESSAGE value="implemented Staircase" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented Staircase" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579203466767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579203466767" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1579206872574">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1579207352804">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579206872574" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579207203489">
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579207352804" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579306258340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579207203489" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579207203489">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579306258340" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579306258339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579207203489" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579207203489">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579306258339" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579306258339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579207203489" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579207203489">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579306258339" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579306258340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579207203489" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579206248771">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579306258340" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579207355856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579206248771" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579203140617">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579207355856" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579305755732">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579203140617" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579305755732" />
   </component>
 </project>
