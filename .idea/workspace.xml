@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/implementation/BirthdayChocolate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/implementation/GradingStudents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/implementation/DivisibleSumPairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/implementation/BirthdayChocolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/implementation/BirthdayChocolate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
       <recent name="C:\Users\esd06\Documents\Software\Python\HackerRank-Challenges\algorithms\warmup" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BetweenTwoSets">
+  <component name="RunManager" selected="Python.DivisibleSumPairs">
     <configuration name="AppleAndOrange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank-Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BirthdayCakeCandles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BirthdayChocolate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRank-Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +87,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/warmup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/BirthdayCakeCandles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/BirthdayChocolate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DivisibleSumPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HackerRank-Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/DivisibleSumPairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,34 +142,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TimeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HackerRank-Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/warmup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/warmup/TimeConversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DivisibleSumPairs" />
+        <item itemvalue="Python.BirthdayChocolate" />
         <item itemvalue="Python.BetweenTwoSets" />
         <item itemvalue="Python.Kangaroo" />
         <item itemvalue="Python.AppleAndOrange" />
-        <item itemvalue="Python.TimeConversion" />
-        <item itemvalue="Python.BirthdayCakeCandles" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579567030541</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="completed GradingStudents">
+      <created>1579653555639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579653555639</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,40 +258,46 @@
     <MESSAGE value="completed Warmups" />
     <MESSAGE value="completed AppleAndOrange, Kangaroo" />
     <MESSAGE value="completed BreakingTheRecords, BetweenTwoSets" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed BreakingTheRecords, BetweenTwoSets" />
+    <MESSAGE value="completed GradingStudents" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed GradingStudents" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579203466767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579203466767" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1579567029514">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1579653555174">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579567029514" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579467037868">
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579653555174" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1579724622721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579653570045" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579724622721" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1579724622721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579653570045" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579724622721" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1579724622721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579653570045" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579724622721" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1579724622721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579653570045" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579724622721" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579653559967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579467037868" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579467037868">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579467037868" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579467037868">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579467037868" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579467037868">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579467037868" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579567032801">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579567032801" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579652063878">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579653559967" />
+    <state x="506" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1579723983934">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579652063878" />
+    <state x="506" y="251" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579723983934" />
   </component>
 </project>
