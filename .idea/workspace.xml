@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/implementation/UtopianTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/implementation/BonAppetit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +35,8 @@
       <recent name="C:\Users\esd06\Documents\Software\Python\HackerRank-Challenges\algorithms\warmup" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.UtopianTree">
-    <configuration name="BirthdayChocolate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BonAppetit">
+    <configuration name="BonAppetit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank-Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/BirthdayChocolate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/BonAppetit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BonAppetit" />
         <item itemvalue="Python.UtopianTree" />
         <item itemvalue="Python.ViralAdvertising" />
         <item itemvalue="Python.MigratoryBirds" />
         <item itemvalue="Python.DivisibleSumPairs" />
-        <item itemvalue="Python.BirthdayChocolate" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579912004657</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="finished UtopianTree.py">
+      <created>1580852823153</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580852823153</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,47 +305,48 @@
     <MESSAGE value="completed MigratoryBirds.py 2" />
     <MESSAGE value="finished ViralAdvertising.py" />
     <MESSAGE value="finished DesignerPDFViewer.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished DesignerPDFViewer.py" />
+    <MESSAGE value="finished UtopianTree.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished UtopianTree.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579203466767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579203466767" />
-    <state x="408" y="0" key="CommitChangelistDialog2" timestamp="1580852803025">
+    <state x="408" y="0" key="CommitChangelistDialog2" timestamp="1580852822641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579793486557" />
-    <state x="408" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580852803025" />
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1580852798222">
+    <state x="408" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580852822641" />
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1582243828263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579794286953" />
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580852798222" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1580852798222">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582243828263" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1582243828262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579794286953" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580852798222" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1580852798222">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582243828262" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1582243828262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579794286953" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580852798222" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1580852798222">
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582243828262" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1582243828262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579794286953" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580852798222" />
-    <state x="350" y="112" key="Vcs.Push.Dialog.v2" timestamp="1579912006993">
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582243828262" />
+    <state x="350" y="112" key="Vcs.Push.Dialog.v2" timestamp="1580852825695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579793489427" />
-    <state x="350" y="112" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579912006993" />
-    <state x="506" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1580852472668">
+    <state x="350" y="112" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580852825695" />
+    <state x="506" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1582242955537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579789139365" />
-    <state x="506" y="251" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580852472668" />
+    <state x="506" y="251" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582242955537" />
   </component>
 </project>
