@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 def sock_merchant(n, ar):
     counts = Counter(ar)
     pairs = 0
@@ -11,6 +12,3 @@ def sock_merchant(n, ar):
             pairs += occ // 2
 
     return pairs
-
-
-sock_merchant(7, [1, 2, 1, 2, 1, 3, 2])

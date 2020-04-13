@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be5c571-fabf-4fa2-8716-15e24853b9d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/implementation/ElectronicsShop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/implementation/SockMerchant.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/implementation/SockMerchant.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582243907191</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="finished 3 new challenged">
+      <created>1586555566900</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1586555566900</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -314,7 +323,8 @@
     <MESSAGE value="finished DesignerPDFViewer.py" />
     <MESSAGE value="finished UtopianTree.py" />
     <MESSAGE value="finished BonAppetit.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished BonAppetit.py" />
+    <MESSAGE value="finished 3 new challenged" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished 3 new challenged" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579203466767">
@@ -325,11 +335,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585068466540" />
-    <state x="408" y="0" key="CommitChangelistDialog2" timestamp="1582243906551">
+    <state x="408" y="0" key="CommitChangelistDialog2" timestamp="1586555565636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579793486557" />
-    <state x="408" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582243906551" />
+    <state x="408" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586555565636" />
     <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1586019512731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -350,15 +360,15 @@
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579794286953" />
     <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586019512731" />
-    <state x="350" y="112" key="Vcs.Push.Dialog.v2" timestamp="1582243909460">
+    <state x="350" y="112" key="Vcs.Push.Dialog.v2" timestamp="1586555583047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579793489427" />
-    <state x="350" y="112" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582243909460" />
-    <state x="506" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1586555531142">
+    <state x="350" y="112" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586555583047" />
+    <state x="506" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1586793861926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579789139365" />
-    <state x="506" y="251" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586555531142" />
+    <state x="506" y="251" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586793861926" />
   </component>
 </project>
